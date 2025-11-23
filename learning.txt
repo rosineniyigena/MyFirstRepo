@@ -1,2 +1,1 @@
-This is what I learned so far in this course...
-In this course, i have learned a lot like everything in version control systems most especially i have gained skills on how to use git.
+What I have learned from this course
